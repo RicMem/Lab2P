@@ -107,10 +107,10 @@ echo $gender;
 if ($_SERVER["REQUEST_METHOD"] == "POST") 
 {
 
-	$servername = "localhost";
-	$username = "root";
-	$password = "";
-	$dbname = "webprogss211
+	$servername = "apcwebprog.csf.ph";
+	$username = "webprogss211";
+	$password = "webprogss211";
+	$dbname = "rbmemarion_myguests
 	";
 
 	// Create connection

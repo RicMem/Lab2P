@@ -4,9 +4,9 @@
 <body>
 
 <?php
-$servername = "localhost";
-$username = "username";
-$password = "password";
+$servername = "apcwebprog.csf.ph";
+$username = "webprogss211";
+$password = "webprogss211";
 $dbname = "myDB";
 
 // Create connection
