@@ -107,7 +107,7 @@ echo $gender;
 if ($_SERVER["REQUEST_METHOD"] == "POST") 
 {
 
-	$servername = "apcwebprog.csf.ph";
+	$servername = "http://apcwebprog.csf.ph/";
 	$username = "webprogss211";
 	$password = "webprogss211";
 	$dbname = "rbmemarion_myguests
