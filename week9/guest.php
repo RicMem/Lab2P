@@ -4,10 +4,10 @@
 <body>
 
 <?php
-$servername = "http://apcwebprog.csf.ph/";
+$servername = "http://apcwebprog.csf.ph/phpmyadmin/";
 $username = "webprogss211";
 $password = "webprogss211";
-$dbname = "myDB";
+$dbname = "rbmemarion_myguests";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);

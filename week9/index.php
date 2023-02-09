@@ -107,11 +107,10 @@ echo $gender;
 if ($_SERVER["REQUEST_METHOD"] == "POST") 
 {
 
-	$servername = "http://apcwebprog.csf.ph/";
+	$servername = "http://apcwebprog.csf.ph/phpmyadmin/";
 	$username = "webprogss211";
 	$password = "webprogss211";
-	$dbname = "rbmemarion_myguests
-	";
+	$dbname = "rbmemarion_myguests";
 
 	// Create connection
 	$conn = new mysqli($servername, $username, $password, $dbname);
