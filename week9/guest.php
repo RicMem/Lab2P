@@ -4,7 +4,7 @@
 <body>
 
 <?php
-$servername = "http://apcwebprog.csf.ph/notmydatabase/";
+$servername = "http://apcwebprog.csf.ph/notmydatabase/index.php?server=2
 $username = "webprogss211";
 $password = "webprogss211";
 $dbname = "rbmemarion_myguests";
