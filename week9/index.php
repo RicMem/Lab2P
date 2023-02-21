@@ -107,7 +107,7 @@ echo $gender;
 if ($_SERVER["REQUEST_METHOD"] == "POST") 
 {
 
-	$servername = "http://apcwebprog.csf.ph/phpmyadmin/";
+	$servername = "http://apcwebprog.csf.ph/notmydatabase/";
 	$username = "webprogss211";
 	$password = "webprogss211";
 	$dbname = "rbmemarion_myguests";
